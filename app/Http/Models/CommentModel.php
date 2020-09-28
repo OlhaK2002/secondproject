@@ -2,9 +2,9 @@
 
 namespace App\Http\Models;
 
-use App\User;
 use Illuminate\Database\Eloquent\Model;
 use App\Comment;
+use App\User;
 
 
 class CommentModel extends Model
